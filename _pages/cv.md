@@ -20,13 +20,6 @@ Work experience
   * Samsung Semiconductor
   * Duties included: Engergy Efficient SerDes Transceiver and WIFI/BT Combo transceiver
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-  
 Reviewer
 ======
 * JSSC, TCAS-I, TCAS-II, TVLSI， etc.
