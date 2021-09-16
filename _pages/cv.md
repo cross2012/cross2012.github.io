@@ -15,7 +15,7 @@ Education
 
 Work experience
 ======
-* 03.2018: Intern/Senior Engineer/Staff Engineer
+* 03.2018-Now: Intern/Senior Engineer/Staff Engineer
   * Samsung Semiconductor Inc.
   * Involved Projects: Engergy Efficient SerDes Transceiver and WIFI/BT Combo transceiver
 
