@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -17,9 +16,9 @@ Education
 Work experience
 ======
 * 03.2018: Intern/Senior Engineer/Staff Engineer
-  * Samsung Semiconductor
-  * Duties included: Engergy Efficient SerDes Transceiver and WIFI/BT Combo transceiver
+  * Samsung Semiconductor Inc.
+  * Involved Projects: Engergy Efficient SerDes Transceiver and WIFI/BT Combo transceiver
 
 Reviewer
 ======
-* JSSC, TCAS-I, TCAS-II, TVLSI， etc.
+* JSSC, TCAS-I, TCAS-II, TVLSI，etc.
