@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.Eng. in University of Electronic Science and Technology of China, 2012
-* Ph.D in VThe Hong Kong University of Science and Technology, 2017
+* Ph.D in The Hong Kong University of Science and Technology, 2017
 
 Work experience
 ======
