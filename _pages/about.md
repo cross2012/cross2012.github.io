@@ -13,5 +13,5 @@ In 2018, I joined Samsung Semiconductor Inc., USA, where I has been working on e
 
 My current research area focus on integrated circuit design from RF to mmWave and THz, including clock generation and transceiver techniques. 
 
-I will join The Hong Kong University of Science and Technology (GuangZhou) as Assistant Professor and I'm currently looking for highly-motivated Mphil and PhD students.
+I joined The Hong Kong University of Science and Technology (GuangZhou) as Assistant Professor in 2022 and I'm currently looking for highly-motivated Mphil and PhD students.
 Please send your CV to my email address zhuangah@connect.ust.hk if you are interested.
