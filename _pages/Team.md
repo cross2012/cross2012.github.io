@@ -5,7 +5,7 @@ permalink: /Team/
 author_profile: true
 ---
 
-PhD Student
+PhD Students
 ==================
 Fengjun Chen (Join in 2022) 
 
