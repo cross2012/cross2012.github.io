@@ -11,7 +11,10 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-        
+
+  - title: "Team"
+    url: /Team/    
+    
   - title: "Blog Posts"
     url: /year-archive/
     
