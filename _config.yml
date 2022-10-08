@@ -224,10 +224,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _Team
   - scope:
       path: ""
-      type: portfolio
+      type: Team
     values:
       layout: single
       author_profile: true
