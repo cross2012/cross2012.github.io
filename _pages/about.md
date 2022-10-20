@@ -7,11 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I'm an Assistant Professor at MICS Thrust of The Hong Kong University of Science and Technology (GuangZhou) since 2022.
 
-I received the B.Eng. degree in integrated circuit design and integrated systems from the University of Electronic Science and Technology of China, Chengdu, China, in 2012, and the Ph.D. degree from The Hong Kong University of Science and Technology, Hong Kong, in 2017. 
-In 2018, I joined Samsung Semiconductor Inc., USA, where I has been working on energy-efficient high-speed SerDes transceiver and WiFi/BT combo transceiver. I also received the IEEE Solid-State Circuits Society (SSCS) Pre-doctoral Achievement Award in 2017
+Before joining HKUST(GZ), I was a staff engineer in Samsung Semiconductor Inc. (SSI), USA. I have received the B.Eng. degree in integrated circuit design and integrated systems from the University of Electronic Science and Technology of China, Chengdu, China, in 2012, and the Ph.D. degree from The Hong Kong University of Science and Technology, Hong Kong, in 2017. 
+In 2018, I joined SSI and worked on energy-efficient high-speed SerDes transceiver and WiFi/BT combo transceiver. I also received the IEEE Solid-State Circuits Society (SSCS) Pre-doctoral Achievement Award in 2017
 
 My current research area focus on integrated circuit design from RF to mmWave and THz, including clock generation and transceiver techniques. 
-
-I joined The Hong Kong University of Science and Technology (GuangZhou) as Assistant Professor in 2022 and I'm currently looking for highly-motivated Mphil and PhD students.
-Please send your CV to my email address zhuangah@connect.ust.hk if you are interested.
+I'm currently looking for highly-motivated PhD students. Please send your CV to my email address zhuangah@connect.ust.hk or zqhuang@ust.hk if you are interested.
