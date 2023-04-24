@@ -13,4 +13,7 @@ Before joining HKUST(GZ), I was a staff engineer in Samsung Semiconductor Inc. (
 In 2018, I joined SSI and worked on energy-efficient high-speed SerDes transceiver and WiFi/BT combo transceiver. I also received the IEEE Solid-State Circuits Society (SSCS) Pre-doctoral Achievement Award in 2017
 
 My current research area focuses on integrated circuit design from RF to mmWave and THz, including clock generation and transceiver techniques. 
-I'm currently looking for highly-motivated PhD students. Please send your CV (include your ranking, awards and publications) and transcripts to my email address zhuangah@connect.ust.hk or zqhuang@ust.hk if you are interested.
+
+I'm currently looking for highly-motivated PhD students. Please send your CV (include your ranking, awards and publications) and transcripts to my email zhuangah@connect.ust.hk or zqhuang@ust.hk if you are interested.
+
+The interview will be mainly based on RF Microelectronics, digital and analog integrated circuit. A research proposal similar to a Review paper (such as "Terahertz Integrated Circuits and Systems for High-Speed Wireless Communications: Challenges and Design Perspectives") is also required. 
