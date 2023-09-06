@@ -9,9 +9,9 @@ PhD Students
 
 ========2022==========
 
-Fengjun Chen, Master degree from Shanghai Jiao Tong University 2012-2015)
+Fengjun Chen, Master degree from Shanghai Jiao Tong University 2012-2015
 
-Shuangfeng Kong, Master degree from University of Electronic Science and Technology of China 2019-2022)
+Shuangfeng Kong, Master degree from University of Electronic Science and Technology of China 2019-2022
 
 ========2023=========
 
