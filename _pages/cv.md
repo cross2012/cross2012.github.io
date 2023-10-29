@@ -15,10 +15,8 @@ Education
 
 Work experience
 ======
-* 03.2018-Now: Intern/Senior Engineer/Staff Engineer
+* 2022.06-Now: Assistant Professor, HKUST(GZ)
+* 2018.03-2022.06: Intern/Senior Engineer/Staff Engineer
   * Samsung Semiconductor Inc.
   * Involved Projects: Engergy Efficient SerDes Transceiver and WIFI/BT Combo transceiver
 
-Reviewer
-======
-* JSSC, TCAS-I, TCAS-II, TVLSI，etc.
