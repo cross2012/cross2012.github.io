@@ -12,8 +12,12 @@ I'm an Assistant Professor at MICS Thrust of The Hong Kong University of Science
 Before joining HKUST(GZ), I was a staff engineer in Samsung Semiconductor Inc. (SSI), USA. I have received the B.Eng. degree in integrated circuit design and integrated systems from the University of Electronic Science and Technology of China, Chengdu, China, in 2012, and the Ph.D. degree from The Hong Kong University of Science and Technology, Hong Kong, in 2017. 
 In 2018, I joined SSI and worked on energy-efficient high-speed SerDes transceiver and WiFi/BT combo transceiver. I also received the IEEE Solid-State Circuits Society (SSCS) Pre-doctoral Achievement Award in 2017
 
-My current research area focuses on integrated circuit design from RF to mmWave and THz, including clock generation and transceiver techniques. 
+My current research area focuses on integrated circuit design from RF to mmWave and THz, analog and mixed signal ICs. 
 
-I'm currently looking for highly-motivated PhD students. Please send your CV (include your ranking, awards and publications) and transcripts to my email zhuangah@connect.ust.hk or zqhuang@ust.hk if you are interested.
+I'm currently looking for highly-motivated PhD and MPhlil students. Please send your CV (include your ranking, awards and publications) and transcripts to my email zhuangah@connect.ust.hk if you are interested.
 
-The interview will be mainly based on RF Microelectronics, digital and analog integrated circuit. A research proposal similar to a Review paper (such as "Terahertz Integrated Circuits and Systems for High-Speed Wireless Communications: Challenges and Design Perspectives") is also required. 
+For Mphil candidate, please apply the redbird MPhil program and the application will be reviewed by adimission committtee. The quota for MPhil student is unlimted in our group.  
+
+The PhD candidate selection is mainly determined by supervisor and I will select PhD candidate mainly based on research proposal and interview. 
+To evaluate your writing skill and knowledge about research areas, the research proposal needs to be written like a literature review paper following my guideline. I will send you guideline after I receive your CV.
+The interview will be mainly based on RF Microelectronics, microwave engineering, digital and analog integrated circuit. Since the interview topic is broad and detailed, multiple interview may be needed.
