@@ -20,4 +20,4 @@ For Mphil candidate, please apply the redbird MPhil program and the application 
 
 The PhD candidate selection is mainly determined by supervisor and I will select PhD candidate mainly based on research proposal and interview. 
 To evaluate your writing skill and knowledge about research areas, the research proposal needs to be written like a literature review paper following my guideline. I will send you guideline after I receive your CV.
-The interview can be scheduled after I receive your research proposal. The interview will cover RF Microelectronics, microwave engineering, digital and analog integrated circuit. Since the interview topic is broad and detailed, multiple interview may be needed. 
+The interview can be scheduled after I receive your research proposal. The interview will cover all chapters of RF Microelectronics and basic knowledge about circuit analysis, microwave engineering, digital and analog integrated circuit, signal and system. Since the interview topic is broad and detailed, multiple interview may be needed. 
