@@ -16,7 +16,7 @@ My current research area focuses on integrated circuit design from RF to mmWave 
 
 I'm currently looking for highly-motivated PhD and MPhlil students. Please send your CV (include your ranking, awards and publications) and transcripts to my email zqhuang@hkust-gz.edu.cn if you are interested.
 
-For Mphil candidate, please apply the redbird MPhil program and the application will be reviewed by adimission committtee. Since the scholarship for MPhil student is paid by university, the quota for MPhil student is unlimted in our group.  
+For MPhil candidate, please apply the redbird MPhil program and the application will be reviewed by adimission committtee. Since the scholarship for MPhil student is paid by university, the quota for MPhil student is unlimted in our group.  
 
 The PhD candidate selection is mainly determined by supervisor and I will select PhD candidate mainly based on research proposal and interview. 
 To evaluate your writing skill and knowledge about research areas, the research proposal needs to be written like a literature review paper following my guideline. I will send you guideline after I receive your CV.
