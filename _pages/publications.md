@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 --- 
 ========Conference==========  
-[6] Zhiqiang Huang , Fengjun Chen, Shuangfeng Kong, “A 5GHz Fractional-N PLL with 97fsrms Jitter and -255.3dB FoM,” IEEE Symposium on VLSI Circuits (VLSI), June 2024  
+[6] **Zhiqiang Huang** , Fengjun Chen, Shuangfeng Kong, “A 5GHz Fractional-N PLL with 97fsrms Jitter and -255.3dB FoM,” IEEE Symposium on VLSI Circuits (VLSI), June 2024  
 [5] Xiaolong Liu, Zhiqiang Huang, Jun Yin, Howard C Luong, “Magnetic-Tuning Millimeter-Wave CMOS Oscillators,” IEEE Custom Integrated Circuits Conference (CICC), April 2019  
 [4] Zhiqiang Huang , Howard C. Luong, “An 82-to-108GHz -181dB-FOMT ADPLL Employing a DCO with Split-Transformer and Dual-Path Switched-Capacitor Ladder and a Clock-Skew-Sampling Delta-Sigma TDC,” IEEE Int. Solid-State Circuits Conf. (ISSCC) Dig. Tech. Papers,  Feb. 2018  
 [3] Zhiqiang Huang , Bingwei Jiang, Lianming Li, Howard C. Luong, “A 4.2μs-Settling-Time 3rd-Order 2.1GHz Phase-Noise-Rejection PLL Using a Cascaded Time-Amplified Clock-Skew Sub-Sampling DLL,” IEEE Int. Solid-State Circuits Conf. (ISSCC) Dig. Tech. Papers, Feb. 2016  
