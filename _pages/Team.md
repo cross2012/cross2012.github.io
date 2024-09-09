@@ -5,18 +5,19 @@ permalink: /Team/
 author_profile: true
 ---
 
-PhD Students
+========PhD Students==========
 
-========2022==========
+Fengjun Chen (SJTU-Msc-2015)
 
-Fengjun Chen, Master degree from Shanghai Jiao Tong University 2012-2015
+Shuangfeng Kong (UESTC-Msc-2022)
 
-Shuangfeng Kong, Master degree from University of Electronic Science and Technology of China 2019-2022
+Lang Qin (BIT-Msc-2023)
 
-========2023=========
+Zhaochen Zhu (UCAS-Msc-2024)
 
-Zhiqiang Wu, Master degree from Hunan University 2018-2021
+========RBM Students==========
 
-Lang Qin, Master degree from Beijing Institute of Technology 2020-2023
- 
+Lang Zheng (UESTC-2022)
+
+Zimo Xue (NJUPT-2024)
 
