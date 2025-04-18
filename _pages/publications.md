@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 --- 
 ========Conference==========  
-[6] **_Zhiqiang Huang_** , Fengjun Chen, Shuangfeng Kong, “A 5GHz Fractional-N PLL with 97fsrms Jitter and -255.3dB FoM,” IEEE Symposium on VLSI Circuits (**_VLSI_**), June 2024  
+[8] Shuangfeng Kong, Fengjun Chen, **_Zhiqiang Huang_** , “A Single-Side-Band Frequency Translated 64-QAM Backscatter Communication IC with Phase-Rotation Time-Variant Reflector and LUT-Based Digital Predistortion,” IEEE Symposium on Radio Frequency Integrated Circuits (RFIC) (**_RFIC_**), June 2025  
+[7] **_Zhiqiang Huang_** , Shuangfeng Kong, Fengjun Chen, “A 6.4GHz Fractional-N PLL with 96.6fsrms Jitter and -257.4dB FoM,” IEEE Symposium on VLSI Circuits and Technology (**_VLSI_**), June 2025  
+[6] **_Zhiqiang Huang_** , Fengjun Chen, Shuangfeng Kong, “A 5GHz Fractional-N PLL with 97fsrms Jitter and -255.3dB FoM,” IEEE Symposium on VLSI Circuits and Technology (**_VLSI_**), June 2024  
 [5] Xiaolong Liu, **_Zhiqiang Huang_**, Jun Yin, Howard C Luong, “Magnetic-Tuning Millimeter-Wave CMOS Oscillators,” IEEE Custom Integrated Circuits Conference (**_CICC_**), April 2019  
 [4] **_Zhiqiang Huang_** , Howard C. Luong, “An 82-to-108GHz -181dB-FOMT ADPLL Employing a DCO with Split-Transformer and Dual-Path Switched-Capacitor Ladder and a Clock-Skew-Sampling Delta-Sigma TDC,” IEEE Int. Solid-State Circuits Conf. (**_ISSCC_**) Dig. Tech. Papers,  Feb. 2018  
 [3] **_Zhiqiang Huang_** , Bingwei Jiang, Lianming Li, Howard C. Luong, “A 4.2μs-Settling-Time 3rd-Order 2.1GHz Phase-Noise-Rejection PLL Using a Cascaded Time-Amplified Clock-Skew Sub-Sampling DLL,” IEEE Int. Solid-State Circuits Conf. (**_ISSCC_**) Dig. Tech. Papers, Feb. 2016  
