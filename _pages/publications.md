@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 --- 
 ========Conference==========  
-[9] Shuangfeng Kong, Zhiqiang Wu, Fengjun Chen, **_Zhiqiang Huang_** , “An 8.65-GHz 8th-Order-Polynomial DPD FMCW PLL Achieving 10-GHz/µs Chirp Slope with 0.039% rms Frequency Error and 3-GHz Chirp Bandwidth,” IEEE European Solid-State Electronics Research Conference (ESSERC) (**_ESSERC_**), September 2025  
-[8] Shuangfeng Kong, Fengjun Chen, **_Zhiqiang Huang_** , “A Single-Side-Band Frequency Translated 64-QAM Backscatter Communication IC with Phase-Rotation Time-Variant Reflector and LUT-Based Digital Predistortion,” IEEE Symposium on Radio Frequency Integrated Circuits (RFIC) (**_RFIC_**), June 2025  
+[9] Shuangfeng Kong, Zhiqiang Wu, Fengjun Chen, **_Zhiqiang Huang_** , “An 8.65-GHz 8th-Order-Polynomial DPD FMCW PLL Achieving 10-GHz/µs Chirp Slope with 0.039% rms Frequency Error and 3-GHz Chirp Bandwidth,” IEEE European Solid-State Electronics Research Conference (**_ESSERC_**), September 2025  
+[8] Shuangfeng Kong, Fengjun Chen, **_Zhiqiang Huang_** , “A Single-Side-Band Frequency Translated 64-QAM Backscatter Communication IC with Phase-Rotation Time-Variant Reflector and LUT-Based Digital Predistortion,” IEEE Symposium on Radio Frequency Integrated Circuits (**_RFIC_**), June 2025  
 [7] **_Zhiqiang Huang_** , Shuangfeng Kong, Fengjun Chen, “A 6.4GHz Fractional-N PLL with 96.6fsrms Jitter and -257.4dB FoM,” IEEE Symposium on VLSI Technology and Circuits (**_VLSI_**), June 2025  
 [6] **_Zhiqiang Huang_** , Fengjun Chen, Shuangfeng Kong, “A 5GHz Fractional-N PLL with 97fsrms Jitter and -255.3dB FoM,” IEEE Symposium on VLSI Technology and Circuits (**_VLSI_**), June 2024  
 [5] Xiaolong Liu, **_Zhiqiang Huang_**, Jun Yin, Howard C Luong, “Magnetic-Tuning Millimeter-Wave CMOS Oscillators,” IEEE Custom Integrated Circuits Conference (**_CICC_**), April 2019  
