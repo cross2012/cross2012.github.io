@@ -15,6 +15,7 @@ In 2018, I joined SSI and worked on energy-efficient high-speed SerDes transceiv
 My current research area focuses on integrated circuit design from RF to mmWave and THz, analog and mixed signal ICs. 
 
 If you are interested in joining our group, please apply Redbird MPhil Program:  
+Admission Policy: https://mp.weixin.qq.com/s/jDjQj69oxQDB_FNGF_p7CQ  
 Application guideline:https://static.hkust-gz.edu.cn/PGOAS/Guideline-for-Application-of-2026-27-Fall-Red-Bird-MPhil-Program.pdf  
 FAQ: https://cft.hkust-gz.edu.cn/admission/admission-faq/  
 Scoring criterion for offline interview: https://mp.weixin.qq.com/s/ueIuCzGW-0ZbXqWxo39wjA  
