@@ -7,20 +7,23 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm an Assistant Professor at MICS Thrust of The Hong Kong University of Science and Technology (GuangZhou) since 2022.
+黄智强，国家高层次青年人才计划入选者，于2017年取得香港科技大学博士学位，并获得IEEE固态电路学会博士生成就奖。
+博士毕业后在三星半导体（美国）从事SerDes、WiFi和5G毫米波收发机的研发工作，并于2022年加入香港科技大学（广州）微电子学域任教。
+研究领域包括模拟、数模混合、射频到太赫兹集成电路设计。
 
-Before joining HKUST(GZ), I was a staff engineer in Samsung Semiconductor Inc. (SSI), USA. I have received the B.Eng. degree in integrated circuit design and integrated systems from the University of Electronic Science and Technology of China, Chengdu, China, in 2012, and the Ph.D. degree from The Hong Kong University of Science and Technology, Hong Kong, in 2017. 
-In 2018, I joined SSI and worked on energy-efficient high-speed SerDes transceiver and WiFi/BT combo transceiver. I also received the IEEE Solid-State Circuits Society (SSCS) Pre-doctoral Achievement Award in 2017
-
-My current research area focuses on integrated circuit design from RF to mmWave and THz, analog and mixed signal ICs. 
-
-If you are interested in joining our group, please apply Redbird MPhil Program:  
-Admission Policy: https://mp.weixin.qq.com/s/jDjQj69oxQDB_FNGF_p7CQ  
-Application guideline:https://static.hkust-gz.edu.cn/PGOAS/Guideline-for-Application-of-2026-27-Fall-Red-Bird-MPhil-Program.pdf  
+我通常不接收直接读博士，如果你有兴趣加入我们课题组，请申请红鸟硕士:  
+招生政策: https://mp.weixin.qq.com/s/jDjQj69oxQDB_FNGF_p7CQ  
+申请教程:https://static.hkust-gz.edu.cn/PGOAS/Guideline-for-Application-of-2026-27-Fall-Red-Bird-MPhil-Program.pdf  
 FAQ: https://cft.hkust-gz.edu.cn/admission/admission-faq/  
-Scoring criterion for offline interview: https://mp.weixin.qq.com/s/ueIuCzGW-0ZbXqWxo39wjA  
+线下面试评分标准: https://mp.weixin.qq.com/s/ueIuCzGW-0ZbXqWxo39wjA  
 
-PhD student positions are only open to the students in our group. The research works carried out in our group before PhD study are counted toward the PhD graduation requirement. 
+博士申请目前仅向组内学生开放，包括本科生，硕士生和科研助理. 
+在我们组里读博之前的成果算进博士毕业要求。
+
+如果能够全部自己想idea，两篇长文期刊论文即可博士毕业，至少一篇被接收，另一篇在投，不限制最短毕业时间。
+如果需要我提供idea，则需要相应增加毕业要求。
+
+目前idea充足，可以保证每位博士生有足够的工作达到毕业要求，也可以保证硕士生和科研助理每人一个idea。
 
 
 
