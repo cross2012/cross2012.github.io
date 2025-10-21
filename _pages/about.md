@@ -11,7 +11,7 @@ redirect_from:
 博士毕业后在三星半导体（美国）从事SerDes、WiFi和5G毫米波收发机的研发工作，并于2022年加入香港科技大学（广州）微电子学域任教。
 研究领域包括模拟、数模混合、射频到太赫兹集成电路设计。
 
-我通常不接收直接读博士，如果你有兴趣加入我们课题组，请申请红鸟硕士:  
+我通常不接收直接读博士，如果你有兴趣加入我们课题组，需要先做科研助理一段时间或者请申请红鸟硕士:  
 招生政策: https://mp.weixin.qq.com/s/jDjQj69oxQDB_FNGF_p7CQ  
 申请教程:https://static.hkust-gz.edu.cn/PGOAS/Guideline-for-Application-of-2026-27-Fall-Red-Bird-MPhil-Program.pdf  
 FAQ: https://cft.hkust-gz.edu.cn/admission/admission-faq/  
